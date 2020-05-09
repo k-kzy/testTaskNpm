@@ -1,0 +1,2 @@
+# testTaskNpm
+npm scripts
